@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Views/GetData/Index.cshtml" hash="ffffffffb4e96f50" filehash="ffffd5b3dde15d94" flags="110000" assembly="App_Web_posi1vs1" type="ASP._Page_Views_GetData_Index_cshtml">
+<preserve resultType="2" virtualPath="/Views/GetData/Index.cshtml" hash="ffffffffb4e96f50" filehash="ffffd5b3dde15d94" flags="110000" assembly="App_Web_yorvapy5" type="ASP._Page_Views_GetData_Index_cshtml">
     <filedeps>
         <filedep name="/Views/GetData/Index.cshtml" />
     </filedeps>
